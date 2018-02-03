@@ -3,7 +3,9 @@ My projects that I completed while taking The Advanced Web Developer Bootcamp on
 
 # Tools and Technologies Taught
 React
+
 React-Router
+
 Redux
 CSS3 Transitions, Transforms and Animations
 Testing with Jasmine
