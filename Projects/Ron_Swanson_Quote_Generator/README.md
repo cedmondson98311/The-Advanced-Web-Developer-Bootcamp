@@ -2,7 +2,7 @@
 Codepen Link: https://codepen.io/cedmondson98311/pen/ppXqqK
 
 
-<p style="font-size:26px"><b>• AJAX
+<p style="font-size:40px"><b>• AJAX
  • jQuery
  • Axios
  • CSS Animations
