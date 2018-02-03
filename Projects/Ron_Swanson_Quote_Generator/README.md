@@ -2,11 +2,11 @@
 Codepen Link: https://codepen.io/cedmondson98311/pen/ppXqqK
 
 
-• AJAX
+<p style="font-size:26px"><b>• AJAX
  • jQuery
  • Axios
  • CSS Animations
- • Flexbox
+ • Flexbox</b></p>
 
 # Ron Swanson Quote Generator
 Demonstrates four different ways to make an AJAX request to an API. A one stop shop for sage advice.
