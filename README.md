@@ -5,7 +5,7 @@ My CodePen for front-end work for this course: https://codepen.io/cedmondson9831
 # The-Advanced-Web-Developer-Bootcamp
 My projects that I completed while taking The Advanced Web Developer Bootcamp on Udemy. This is a full-stack web development course that covers React 16, Redux, D3, ES2015, Testing, CSS Flexbox, Animations, SVG, AJAX, and more.
 
-# Tools, Technologies, and Concepts Taught
+## Tools, Technologies, and Concepts Taught
 React
 
 React-Router
@@ -42,7 +42,7 @@ Authentication and Authorization
 
 Asynchronous Code with JavaScript
 
-# Outcomes
+## Outcomes
 Make REAL web applications using cutting-edge technologies
 
 Build responsive applications using modern CSS technologies like flexbox
@@ -107,14 +107,14 @@ Learn cutting edge features to the JavaScript language with ES2016, 2017 as well
 
 Solve problems similar to what you would get in a developer interview or phone screen
 
-# By the numbers
+## By the numbers
 Lectures: 357
 
 Video: 28.5 hours
 
 Skill level: Intermediate Level
 
-# Description
+## Description
 
 This complete course teaches the latest technologies, tools, and libraries needed to become a proficient web developer. This course is taught by professional bootcamp instructors. The material learned in this course has been taught to hundreds of students in person and thousands online. During this course the student will build over 10 projects and have dozens of code challenges presented to them to ensure that the material is understood.
 
